@@ -3,18 +3,18 @@
     "device_id": "device123",
     "key": "key12345",
     "expirydate": "31-12-2025",
-    "Allowoffline": true
+    "AllowOffline": true
   },
   {
     "device_id": "device456",
     "key": "key67890",
     "expirydate": "15-06-2025",
-    "Allowoffline": false
+    "AllowOffline": false
   },
   {
     "device_id": "f9c3676394c085ee",
     "key": "nmmsmod36542",
     "expirydate": "30-07-2026",
-    "Allowoffline": true
+    "AllowOffline": true
   }
 ]
